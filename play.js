@@ -14,7 +14,7 @@ const  printsecName = ({name}) => {
 };
 
 printName(person);
-printsecName(person);
+printName(person);
 
 // const hobbies = ['Gym', 'Sex'];
 
